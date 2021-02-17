@@ -1,7 +1,7 @@
 
 
 
-public class Master{
+public class Another{
 
 public static void main(String args[]){
 System.out.print("Master Class Created");
